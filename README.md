@@ -2,4 +2,6 @@
 
 A React project with some of the most important functionalities in an e-commerce website.
 
-Link: https://cellstore-react.netlify.app
+Links:
+Netlify: https://cellstore-react.netlify.app
+GitHub Pages: https://wellingttoonn.github.io/celstore/
